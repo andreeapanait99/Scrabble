@@ -1,1 +1,3 @@
 # Scrabble
+
+Implemented in C
