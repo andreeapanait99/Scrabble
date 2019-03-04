@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1516447877 source:c:\users\guest\desktop\panait andreea\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1520922580 source:f:\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1520922580 source:d:\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
